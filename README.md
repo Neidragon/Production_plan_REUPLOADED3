@@ -74,9 +74,41 @@ Additionally, DLC (Downloadable Content) and expansions can also be added to gam
 
 ## Fails 
 
-missing photos
+Now let's go see some examples of how bad can things end up when you follow these steps. I'll use the example of GTA trilogy a remastered edition of 3 GTA games (San Andreas, IV and Vice City). Where Rockstar automatized a lot of stuff and left things like song licenses and coding without enough time to get properly fixed and it's visible in segments of radio in complete silence or the next texts and textures getting extremely weird:
+
+![](Audiovisual Elements/RawCode1.png)
+![](Audiovisual Elements/RawCode2.png)
+-Code found without compiling and with comentarys from the developers, still on the released game-
+
+![](Audiovisual Elements/TextureFail1.jpg)
+![](Audiovisual Elements/TextureFail2.jpg)
+-Failed textures due to the automatization of smoothing tools-
+
+![](Audiovisual Elements/TextFail1.jpg)
+![](Audiovisual Elements/TextFail2.jpg)
+-Failed text due to automatization of text recognition tools-
+
+[![](Audiovisual Elements/ToddMyBeloved.png)](https://www.youtube.com/watch?v=kjyeCdd-dl8)
+-The Fall of 76 by Internet Historian, a video where it's explained all the flaws that Fallout 76 had- 
 
 ## Conclusion 
 
 In conclusion, creating a production plan is a crucial step in ensuring the success of any project. By following the steps outlined in this presentation, you can create a production plan that is realistic, achievable, and tailored to your specific needs. It is important to plan smartly and not rush things, as this will help you avoid costly mistakes and delays. Additionally, keeping your licenses up to date is crucial to ensure that you are legally compliant and avoid any potential legal issues. By keeping these important factors in mind, you can create a production plan that sets you up for success and helps you achieve your goals efficiently and effectively.
  
+## Bybliography
+
+* [What are the Production and Creation Phases of a Video Game?](https://starloopstudios.com/what-are-the-production-and-creation-phases-of-a-video-game/)
+
+* [How to create a production plan concept](https://www.ommzi.com/create-production-plan-concept-important-phases-consider/)
+
+* [The 5 major legal challenges game developers face](https://strebecklaw.com/the-5-major-legal-challenges-game-developers-face/)
+
+* [IP copyright registration tool (Spain)](https://copyright.es/index.html?utm_source=AdWords&utm_medium=PPC&utm_term=como%20registrar%20derechos%20de%20autor&utm_content=597092581571&utm_campaign=AdGroup&Network=Search&SiteTarget=&gclid=CjwKCAjw9J2iBhBPEiwAErwpef0411jw9abX5R8W3f7eEIQDy1rjfZofENggrlm5LrMk2v4-Njwk-xoCc-QQAvD_BwE)
+
+## Tools/Resources
+
+* [Presentation](Documents/Production Plan & licenses(presentation).pdf)
+
+* [ChatGPT](https://chat.openai.com)
+
+
