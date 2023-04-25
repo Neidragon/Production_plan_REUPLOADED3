@@ -79,4 +79,4 @@ missing photos
 ## Conclusion 
 
 In conclusion, creating a production plan is a crucial step in ensuring the success of any project. By following the steps outlined in this presentation, you can create a production plan that is realistic, achievable, and tailored to your specific needs. It is important to plan smartly and not rush things, as this will help you avoid costly mistakes and delays. Additionally, keeping your licenses up to date is crucial to ensure that you are legally compliant and avoid any potential legal issues. By keeping these important factors in mind, you can create a production plan that sets you up for success and helps you achieve your goals efficiently and effectively.
-
+ 
